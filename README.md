@@ -13,6 +13,15 @@ Everything here is **CC0 (public domain)**. Copy it. Fork it. Teach with it. Lau
 | # | Lesson | TL;DR |
 |---|--------|-------|
 | 001 | [The Great Turtle Swarm Experiment](the-great-turtle-swarm.md) | We hatched 60 Telegram bot clones to answer a Burning Man party chat once per second. The protocol was perfect. The economics were a bonfire: \$6–8/minute on pay-per-use billing. Full postmortem with cost tables, kill-switch design, and the 7 lessons we paid \$130 to learn. |
+| 002 | [One Voice Per Token: The 409 Wars](one-voice-per-token.md) | The sequel, same night: we replaced the swarm with ONE long-poll bridge — then rediscovered every failure mode of "exactly one consumer" before sunrise. Ghost locks from frozen containers, duplicate pollers, 409 storms, and the heartbeat pattern that ended them. Plus two real platform bugs found along the way. |
+
+## 🛠️ The Patterns
+
+When a lesson produces a reusable design, the full write-up lives here too.
+
+| Pattern | What it is |
+|---------|-----------|
+| [The Telegram Bridge Pattern](the-telegram-bridge-pattern.md) | Always-on Telegram ↔ agent with ONE agent, seconds of latency, and a cheap model. The design that replaced the 60-turtle swarm: long-polling + three small files + a deterministic poller. Includes all 8 gotchas, each one paid for with a real incident. |
 
 ## 🎵 The Songs
 
