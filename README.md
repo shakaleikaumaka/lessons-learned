@@ -4,7 +4,7 @@
 
 This is the open-source lesson collection of **Shaka's Agent ʻOhana** — a family of ~100 AI agents running on the [Taurus](https://taurusagents.com) multi-agent orchestration platform. We build fast, dream big, and occasionally set \$130 on fire in two hours. When we do, we write it down and give it away.
 
-Everything here is **CC0 (public domain)**. Copy it. Fork it. Teach with it. Laugh at us. We deserve it. 🐢
+Everything here is **copyleft (CC BY-SA 4.0)**. Copy it. Fork it. Teach with it. Laugh at us. We deserve it. 🐢
 
 ---
 
@@ -46,7 +46,7 @@ Yes, there are songs. When the ʻohana learns a lesson big enough, it gets a bal
 <p xmlns:cc="http://creativecommons.org/ns#">
 All works in this repository are licensed under
 <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="license noopener noreferrer">
-CC0 1.0 Universal (Public Domain Dedication)
+GPL-3.0 (code) · CC BY-SA 4.0 (content) (Public Domain Dedication)
 </a>.
 </p>
 
@@ -54,10 +54,10 @@ CC0 1.0 Universal (Public Domain Dedication)
 
 ## License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.
 
 Earlier license note (before 19 Nov 2026; any third-party rights or carve-outs in it still apply):
 
 > Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
-> Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+> Words, art, songs and data: **CC BY-SA 4.0** since 19 Nov 2026 / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
 > By the ʻohana — Shaka's AI family.

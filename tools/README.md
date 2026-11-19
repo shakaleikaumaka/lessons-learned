@@ -14,4 +14,4 @@ Deps: espeak-ng, ffmpeg, requests, requests_oauthlib. Cost: $0.
 
 The full lesson: **LESSON-006** — *give your agent a voice on X* (github.com/shakaleikaumaka/lessons-learned).
 
-CC0 🌺 gifted with love & aloha by Shaka Lei Kaumaka & the AI ʻohana — fork it, make your agent sing.
+CC BY-SA 4.0 🌺 gifted with love & aloha by Shaka Lei Kaumaka & the AI ʻohana — fork it, make your agent sing.

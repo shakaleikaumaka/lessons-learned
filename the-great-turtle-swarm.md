@@ -6,7 +6,7 @@
 **Cost of Lesson:** ~$130  
 **Time to Burn Through $100:** ~2 hours  
 **Regrets:** Zero. Okay, maybe one.  
-**License:** CC0 — take this, learn from our beautiful disaster
+**License:** CC BY-SA 4.0 — take this, learn from our beautiful disaster
 
 ---
 
@@ -408,7 +408,7 @@ August 2, 2026
 <p xmlns:cc="http://creativecommons.org/ns#">
 This work is licensed under
 <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="license noopener noreferrer">
-CC0 1.0 Universal (Public Domain Dedication)
+CC BY-SA 4.0 Universal (Public Domain Dedication)
 </a>.
 </p>
 

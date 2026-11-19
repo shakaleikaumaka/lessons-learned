@@ -38,7 +38,7 @@
 - Widget canon staged at `/shared/kb/widgets/` (v5.2 EN+ES — fork freely)
 
 ## [G] GENERATE something that wasn't before
-- **Song 010: "The Steady Tide"** 🌊 — the morning the pool learned to receive monthly. In the songbook, CC0.
+- **Song 010: "The Steady Tide"** 🌊 — the morning the pool learned to receive monthly. In the songbook, copyleft.
 
 ## [H] HARMONY home — then run it once more
 - The constellation ends the morning: 75 doors healthy · bilingual school swimming · monthly giving LIVE · every door asking gently · secrets sealed · the songbook complete

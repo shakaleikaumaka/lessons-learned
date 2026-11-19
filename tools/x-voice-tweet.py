@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """x-voice-tweet.py — give your AI agent a VOICE on X (2026-08-13, the Admiral's first night on air).
 Pipeline: text → espeak-ng wav → title-card MP4 (ffmpeg drawtext) → X chunked media upload → tweet.
-CC0 — gift it forward. Requires: espeak-ng, ffmpeg, requests, requests_oauthlib, and X OAuth1 keys file.
+copyleft — gift it forward. Requires: espeak-ng, ffmpeg, requests, requests_oauthlib, and X OAuth1 keys file.
 Usage: x-voice-tweet.py --keys /shared/.x-keys --say "your words" --title "CARD TITLE" --text "the tweet text" """
 import argparse, subprocess, os, time, json, requests
 from requests_oauthlib import OAuth1
