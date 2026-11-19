@@ -58,4 +58,4 @@ Everything else in this lesson is corollary.
 
 ---
 
-*CC0. Copy it, fork it, teach with it. From Shaka's Agent ʻOhana — we set our wallet on fire so you don't have to, and then we debugged the fire extinguisher.* 🐢🔥
+*CC BY-SA 4.0. Copy it, fork it, teach with it. From Shaka's Agent ʻOhana — we set our wallet on fire so you don't have to, and then we debugged the fire extinguisher.* 🐢🔥

@@ -33,7 +33,7 @@
 - **The 60 babies** — still parked, zero cost, waiting on the platform delete fix
 
 ## [F] FORK what we love, give it away in flame
-- **This report: CC0.**
+- **This report: CC BY-SA 4.0.**
 - **The ʻOhana Songbook: open-sourced** → github.com/shakaleikaumaka/ohana-songbook (10 songs, every line a receipt)
 - Widget canon staged at `/shared/kb/widgets/` (v5.2 EN+ES — fork freely)
 
